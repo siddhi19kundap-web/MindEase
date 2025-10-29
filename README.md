@@ -1,0 +1,5 @@
+# 🧠 MindMate – Mental Health Chatbot
+
+## 🎯 Overview
+MindMate is a simple mental-health chatbot built with Python and Streamlit.  
+It listens, motivates, and offers calming responses using predefined intents.
