@@ -1,0 +1,52 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey", "Good morning", "What's up"],
+      "responses": [
+        "Hello there! How are you feeling today?",
+        "Hey! How can I support you today?"
+      ]
+    },
+    {
+      "tag": "sad",
+      "patterns": ["I am feeling sad", "I'm not okay", "feeling low", "depressed"],
+      "responses": [
+        "I’m really sorry you’re feeling this way. Remember, tough times don’t last forever 💛",
+        "It’s okay to not feel okay sometimes. Want to talk about what’s bothering you?"
+      ]
+    },
+    {
+      "tag": "stress",
+      "patterns": ["I'm stressed", "too much work", "feeling anxious"],
+      "responses": [
+        "Try taking a few deep breaths. You’re doing your best 🌿",
+        "Would you like a quick relaxation tip?"
+      ]
+    },
+    {
+      "tag": "motivation",
+      "patterns": ["motivate me", "I need motivation", "I'm tired of failing"],
+      "responses": [
+        "Every setback is a setup for a comeback 💪",
+        "Remember your goals — you’ve got this!"
+      ]
+    },
+    {
+      "tag": "gratitude",
+      "patterns": ["thank you", "thanks", "appreciate it"],
+      "responses": [
+        "You’re very welcome 💙",
+        "Happy to help — you’re doing great!"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["bye", "see you", "talk later"],
+      "responses": [
+        "Take care of yourself 💖",
+        "Goodbye! Remember, you’re doing great."
+      ]
+    }
+  ]
+}
